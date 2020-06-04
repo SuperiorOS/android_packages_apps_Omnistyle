@@ -15,4 +15,18 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_header">标题</string>
+    <string name="custom_header_image_notice">页眉图片设置</string>
+    <string name="header_creator_label">创建者\u003a </string>
+    <string name="no_network_message">无网络连接</string>
+    <string name="download_wallpaper_list_failed_notice">加载壁纸目录失败</string>
+    <string name="pick_header">选择标题</string>
+    <string name="sort_by_creator_menu">按创建者排序</string>
+    <string name="sort_by_tag_menu">按标签排序</string>
+    <string name="sort_by_default_menu">按名称排序</string>
+    <string name="download_header_notice">正在下载标题</string>
+    <string name="download_header_failed_notice">下载标题失败</string>
+    <string name="header_location_local">本地</string>
+    <string name="header_location_online">在线</string>
+</resources>

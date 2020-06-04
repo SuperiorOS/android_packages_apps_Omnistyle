@@ -15,4 +15,18 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_header">Başlıklar</string>
+    <string name="custom_header_image_notice">Başlık görüntüsü ayarla</string>
+    <string name="header_creator_label">Oluşturan\u003a </string>
+    <string name="no_network_message">Ağ bağlantısı yok</string>
+    <string name="download_wallpaper_list_failed_notice">Duvar kağıdı dizini yüklenemedi</string>
+    <string name="pick_header">Başlık seç</string>
+    <string name="sort_by_creator_menu">Oluşturana göre sırala</string>
+    <string name="sort_by_tag_menu">Etikete göre sırala</string>
+    <string name="sort_by_default_menu">İsme göre sırala</string>
+    <string name="download_header_notice">Başlık indiriliyor</string>
+    <string name="download_header_failed_notice">Başlık indirilemiyor</string>
+    <string name="header_location_local">Yerel</string>
+    <string name="header_location_online">Çevrimiçi</string>
+</resources>

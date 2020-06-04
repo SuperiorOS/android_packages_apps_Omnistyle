@@ -15,4 +15,18 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_header">ヘッダー</string>
+    <string name="custom_header_image_notice">ヘッダー画像の設定</string>
+    <string name="header_creator_label">製作者\u003a</string>
+    <string name="no_network_message">ネットワーク接続がありません</string>
+    <string name="download_wallpaper_list_failed_notice">壁紙の読み込みに失敗しました</string>
+    <string name="pick_header">ヘッダーの選択</string>
+    <string name="sort_by_creator_menu">製作者で並び替え</string>
+    <string name="sort_by_tag_menu">タグで並び替え</string>
+    <string name="sort_by_default_menu">名前で並び替え</string>
+    <string name="download_header_notice">ヘッダーをダウンロード</string>
+    <string name="download_header_failed_notice">ヘッダーのダウンロードに失敗しました</string>
+    <string name="header_location_local">端末内</string>
+    <string name="header_location_online">オンライン</string>
+</resources>

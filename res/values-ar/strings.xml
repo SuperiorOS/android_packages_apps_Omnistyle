@@ -15,4 +15,18 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="browse_header">الصورة العلوية</string>
+    <string name="custom_header_image_notice">تعيين الصورة العلوية</string>
+    <string name="header_creator_label">المنشئ\u003a </string>
+    <string name="no_network_message">لا يوجد اتصال بالشبكة</string>
+    <string name="download_wallpaper_list_failed_notice">فشل تحميل مسار الخلفية</string>
+    <string name="pick_header">حدد الصورة العلوية</string>
+    <string name="sort_by_creator_menu">الترتيب حسب المنشئ</string>
+    <string name="sort_by_tag_menu">الترتيب حسب العلامة</string>
+    <string name="sort_by_default_menu">ترتيب حسب الاسم</string>
+    <string name="download_header_notice">جار تحميل الصورة العلوية</string>
+    <string name="download_header_failed_notice">فشل تحميل الصورة العلوية</string>
+    <string name="header_location_local">محلي</string>
+    <string name="header_location_online">متصل</string>
+</resources>
