@@ -52,7 +52,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".beaches"
             android:label="Beaches"
-            android:exported="true">
+            android:exported="false">
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -62,7 +62,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".scenes2"
             android:label="Flat Scenery"
-            android:exported="true">
+            android:exported="false">
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
                 <category android:name="android.intent.category.DEFAULT" />
@@ -71,7 +71,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".nature"
             android:label="Nature"
-            android:exported="true">
+            android:exported="false">
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
                 <category android:name="android.intent.category.DEFAULT" />
@@ -80,7 +80,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".poly"
             android:label="Poly"
-            android:exported="true">
+            android:exported="false">
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
                 <category android:name="android.intent.category.DEFAULT" />
@@ -89,7 +89,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".space_interval"
             android:label="Space (interval)"
-            android:exported="true">
+            android:exported="false">
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
                 <category android:name="android.intent.category.DEFAULT" />
@@ -98,7 +98,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".colorful"
             android:label="Colorful"
-            android:exported="true">
+            android:exported="false">
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
                 <category android:name="android.intent.category.DEFAULT" />
@@ -107,7 +107,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".anime_girl"
             android:label="Anime Girls"
-            android:exported="true">
+            android:exported="false">
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
                 <category android:name="android.intent.category.DEFAULT" />
@@ -116,7 +116,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".naruto"
             android:label="Naruto"
-            android:exported="true">
+            android:exported="false">
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
                 <category android:name="android.intent.category.DEFAULT" />
@@ -125,7 +125,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".scenery"
             android:label="Scenery - Anime"
-            android:exported="true">
+            android:exported="false">
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
                 <category android:name="android.intent.category.DEFAULT" />
@@ -134,7 +134,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".sao_header"
             android:label="Sword Art Online"
-            android:exported="true">
+            android:exported="false">
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
                 <category android:name="android.intent.category.DEFAULT" />
